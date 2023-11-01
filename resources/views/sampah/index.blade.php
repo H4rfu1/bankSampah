@@ -8,7 +8,7 @@
                     <h2>Management Sampah</h2>
                 </div>
                 <div class="pull-right pb-4">
-                    <a class="btn btn-success" href="{{ route('sampah.create') }}"> Create New Product</a>
+                    <a class="btn btn-success" href="{{ route('sampah.create') }}"> Create New Sampah</a>
                 </div>
             </div>
         </div>
